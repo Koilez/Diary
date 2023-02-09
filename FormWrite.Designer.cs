@@ -75,7 +75,7 @@
             this.textBox.Location = new System.Drawing.Point(13, 86);
             this.textBox.Multiline = true;
             this.textBox.Name = "textBox";
-            this.textBox.Size = new System.Drawing.Size(665, 273);
+            this.textBox.Size = new System.Drawing.Size(665, 238);
             this.textBox.TabIndex = 4;
             // 
             // buttonRemove
@@ -101,7 +101,7 @@
             this.Controls.Add(this.dateTimePicker);
             this.Controls.Add(this.buttonSave);
             this.Name = "FormWrite";
-            this.Text = "Form1";
+            this.Text = "Write";
             this.ResumeLayout(false);
             this.PerformLayout();
 

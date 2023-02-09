@@ -46,7 +46,7 @@
             this.ClientSize = new System.Drawing.Size(690, 361);
             this.Controls.Add(this.panelWindow);
             this.Name = "FormWindow";
-            this.Text = "Form1";
+            this.Text = "Diary";
             this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.FormWindow_FormClosed);
             this.ResumeLayout(false);
 
